@@ -3,5 +3,5 @@ body {
 }
 
 img {
-    scale: 40%;
+    transform: scale(.447, .41);
 }
