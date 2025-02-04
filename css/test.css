@@ -4,8 +4,9 @@
 }
 
 #a0_box img {
-    height: 965px;
-    width: 1410px;
+    transform: scale(1.09, 1);
+    margin-left: 100px;
+
 }
 
 #cut_and_lined img {
