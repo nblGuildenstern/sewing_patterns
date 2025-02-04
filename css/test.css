@@ -1,5 +1,11 @@
+
+#a0_box {
+    font-size: 0;
+}
+
 #a0_box img {
-    transform: scale(.447, .41);
+    height: 965px;
+    width: 1410px;
 }
 
 #cut_and_lined img {
